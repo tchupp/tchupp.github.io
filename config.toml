@@ -4,7 +4,6 @@ languageCode = "en-us"
 title = "Theo Chupp"
 theme = "hugo-identity-theme"
 themesDir = "themes"
-publishDir = "docs"
 
 # Disable unnecessary kinds
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
