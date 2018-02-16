@@ -48,15 +48,16 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
         "Co-founder of [Reaction Control Labs](http://reactioncontrollabs.com/)",
         "Builder, Maker, Open Source [Hacker](https://tclchiam.github.io/oxidize-go/)"
       ]
-    biography = """
-    Theo is plain awesome.
+    biography = """Theo is plain awesome.
 
-    He has extensive experience helping enterprise software teams act like small companies;
-    pushing developers to think about the big picture, and find the real problems to solve.
-    He also has a passion for building products, through prototyping and fast feedback.
+He has extensive experience helping enterprise software teams act like small companies;
+pushing developers to think about the big picture, and find the real problems to solve.
 
-    He likes startups, bootstrapping, asking questions, and he isn't afraid to make mistakes.
-    Talk to him about your next project!
+He also has a passion for building products, through prototyping and fast feedback.
+
+He likes startups, bootstrapping, asking questions, and he isn't afraid to make mistakes.
+
+Talk to him about your next project!
 """
 
   # Contact form settings
