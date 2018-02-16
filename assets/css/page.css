@@ -1,0 +1,18 @@
+html {
+  min-height:100%;
+}
+
+body {
+  min-height:100%;
+  margin: 0;
+  background-size: auto;
+  background-repeat:     repeat,      no-repeat,   no-repeat;
+  background-size:       100px 100px, cover,       cover;
+  background-position:   top left,    center,      bottom;
+  background-attachment: fixed,       fixed,       fixed;
+  background-color: #032442;
+  background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(230, 140, 125, 0.5) 20%, rgba(0, 203, 230, 0.5)), url("images/bg.jpg");
+  background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(230, 140, 125, 0.5) 20%, rgba(0, 203, 230, 0.5)), url("images/bg.jpg");
+  background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(230, 140, 125, 0.5) 20%, rgba(0, 203, 230, 0.5)), url("images/bg.jpg");
+  background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(230, 140, 125, 0.5) 20%, rgba(0, 203, 230, 0.5)), url("images/bg.jpg");
+}
