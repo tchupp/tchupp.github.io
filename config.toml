@@ -50,10 +50,10 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
       ]
     biography = """Theo loves problems.
 
-He has extensive experience helping enterprise software teams act like small companies;
-pushing developers to think about the big picture, and find the real problems to solve.
+He has extensive experience helping enterprise software teams act like small companies,
+by pushing developers to think about the big picture and find the real problems to solve.
 
-He also has a passion for building products, through rapid prototyping and fast feedback.
+He also has a passion for building products through rapid prototyping and fast feedback.
 
 He likes startups, bootstrapping, asking questions, and he isn't afraid to make mistakes.
 
