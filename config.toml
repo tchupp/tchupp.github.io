@@ -45,7 +45,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     livesIn = "Ann Arbor, Michigan"
     scope = [
         "Software Consultant for [Pillar Technology](https://pillartechnology.com/)",
-        "Co-founder of [Reaction Control Labs](http://reactioncontrollabs.com/)",
+        "Co-founder of [Reaction Control Labs](https://rxnctrllabs.gitlab.io/)",
         "Builder, Maker, Open Source [Hacker](https://tchupp.github.io/oxidize-go/)"
       ]
     biography = """Theo loves problems.
