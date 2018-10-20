@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://tclchiam.github.io"
+baseurl = "https://tchupp.github.io"
 languageCode = "en-us"
 title = "Theo Chupp"
 theme = "hugo-identity-theme"
@@ -46,7 +46,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     scope = [
         "Software Consultant for [Pillar Technology](https://pillartechnology.com/)",
         "Co-founder of [Reaction Control Labs](http://reactioncontrollabs.com/)",
-        "Builder, Maker, Open Source [Hacker](https://tclchiam.github.io/oxidize-go/)"
+        "Builder, Maker, Open Source [Hacker](https://tchupp.github.io/oxidize-go/)"
       ]
     biography = """Theo loves problems.
 
@@ -112,7 +112,7 @@ Talk to him about your next project!
   [[params.social]]
     title = "Github"
     icon = "fa-github"
-    link = "https://github.com/tclchiam"
+    link = "https://github.com/tchupp"
     target = "_blank"
   [[params.social]]
     title = "LinkedIn"

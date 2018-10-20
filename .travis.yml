@@ -1,7 +1,7 @@
 language: python
 
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_0.49.2_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - pip install Pygments
 
@@ -13,7 +13,7 @@ script:
   - rm -rf .git/worktrees/public/
 
   - echo "Checking out gh-pages branch (actually master) into public"
-  - git remote add upstream https://tclchiam:$GH_API_TOKEN@github.com/$TRAVIS_REPO_SLUG
+  - git remote add upstream https://tchupp:$GH_API_TOKEN@github.com/$TRAVIS_REPO_SLUG
   - git fetch upstream
   - git worktree add -B master public upstream/master
 
