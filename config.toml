@@ -119,6 +119,11 @@ Talk to him about your next project!
     icon = "fa-linkedin"
     link = "https://www.linkedin.com/in/theo-chupp"
     target = "_blank"
+  [[params.social]]
+    title = "Dev.to"
+    icon = "fa-dev"
+    link = "https://dev.to/tchupp"
+    target = "_blank"
 
   # Footer settings
   [params.footer]
